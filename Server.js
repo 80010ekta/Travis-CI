@@ -4,7 +4,7 @@ var fs = require("fs");
 
 var user = {
 	"user5" : {
-		"name" : "shraddha patel",
+		"name" : "Shraddha patel",
 		"profession" : "Dev",
 		"id" : 5
 	}
