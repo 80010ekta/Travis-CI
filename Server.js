@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var fs = require("fs");
 
-var user={
+var user = {
 	"user5" : {
 		"name" : "shraddha patel",
 		"profession" : "Dev",
